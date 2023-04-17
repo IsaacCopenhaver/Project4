@@ -28,7 +28,7 @@ public class LinkedIntList {
 			current = current.next;
 		}
 		return current.data;
-	}
+	}//
 
 	// Adds the given value to the end of the list.
 	public void add(int value) {
